@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 * Capable of collecting and processing data from heterogeneous sources
 * Knowledge on Deep Learning, Computer Vision
 
-### Distributed Algorithm and Cloud Computing and Block chain
+### Distributed Algorithm, Cloud Computing and Block chain
 * Trying to implement the distributed algorithm in python 
 * [Greedy algorithm] (https://github.com/adhikarir/distributed-algorithm-with-python/blob/master/greedy_algorithm.py.ipynb)
+* Hosted the web application and services in cloud computing plateform like Amazon web services, DigitalOcean.
 * Start to wprking on Block chain will be update soon
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
