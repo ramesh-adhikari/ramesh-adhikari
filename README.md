@@ -28,4 +28,15 @@ Here are some ideas to get you started:
 * Hosted the web application and services in cloud computing plateform like Amazon web services, DigitalOcean.
 * Start to wprking on Block chain will be update soon
 
+### Backend Development
+* Spent 3+yrs on Building backend services
+* Built RestFul services for several clients: Mobile App, Web App
+* Expertise in backend technologies: Laravel, Django, Node.js
+* Experienced in Working Database: Mysql, SQL server
+* Familiar with Deployment of applications on AWS, DigitalOcean
+* Comfortable with Linux, Bash, Shell Script
+* Experienced on optimizing relational database
+* Worked on SAAS platform
+
+
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
