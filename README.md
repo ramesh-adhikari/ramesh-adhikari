@@ -1,4 +1,5 @@
 ### Hi there 👋
+<hr style="border:1px solid blue"> </hr>
 
 <!--
 **adhikarir/adhikarir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
