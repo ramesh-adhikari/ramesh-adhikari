@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 * Trying to implement the distributed algorithm in python 
 * [Greedy algorithm] (https://github.com/adhikarir/distributed-algorithm-with-python/blob/master/greedy_algorithm.py.ipynb)
 * Hosted the web application and services in cloud computing plateform like Amazon web services, DigitalOcean.
-* Start to wprking on Block chain will be update soon
+* Start to working on [Block chain technology](https://github.com/adhikarir/E-voting-system-using-blockchain-and-python) 
 
 ### Backend Development
 * Spent 3+yrs on Building backend services
