@@ -20,7 +20,7 @@ I am [Ramesh Adhikari](https://ramesh-adhikari.github.io/), a computer science d
 ### Research
 I work with [Dr. Costas Busch](https://scholar.google.com/citations?user=VxzBbI0AAAAJ&hl=en), on Distributed Algorithm, Blockchain Sharding and Transactional Memory. My research interests areas are in Distributed Algorithms, Blockchain Technology, and Computer Vision.
 
-### Distributed Algorithm, Cloud Computing and Block chain
+### Distributed Algorithm, Cloud Computing and Blockchain
 * Sharding in Blockchain
 * Transactional Memory
 * Trying to implement the distributed algorithm in python 
