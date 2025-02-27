@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am [Ramesh Adhikari](https://ramesh-adhikari.github.io/), a computer science doctoral student at [School of Computer and Cyber Sciences](https://www.augusta.edu/ccs/), [Augusta University](https://www.augusta.edu/) , in Augusta Georgia, United States. My advisor is [Dr. Costas Busch](https://scholar.google.com/citations?user=VxzBbI0AAAAJ&hl=en). You can find [my CV here](https://ramesh-adhikari.github.io/assets/documents/Ramesh_Adhikari_CV.pdf). I received a Bachelor of Computer Engineering degree in 2017 from Tribhuvan University, and an M.Sc. in Computer Engineering in 2021 from Pokhara University, Nepal.
+I am [Ramesh Adhikari](https://ramesh-adhikari.github.io/), a computer science doctoral candidate at [School of Computer and Cyber Sciences](https://www.augusta.edu/ccs/), [Augusta University](https://www.augusta.edu/) , in Augusta Georgia, United States. My advisor is [Dr. Costas Busch](https://scholar.google.com/citations?user=VxzBbI0AAAAJ&hl=en). You can find [my CV here](https://ramesh-adhikari.github.io/assets/documents/Ramesh_Adhikari_CV.pdf). I received a Bachelor of Computer Engineering degree in 2017 from Tribhuvan University, and an M.Sc. in Computer Engineering in 2021 from Pokhara University, Nepal.
 
 ### Research
 I work with [Dr. Costas Busch](https://scholar.google.com/citations?user=VxzBbI0AAAAJ&hl=en), on a distributed algorithm and blockchain technology. My research interests are Distributed Algorithms, Blockchain Technology, and Computer Vision.
